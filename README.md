@@ -1,10 +1,10 @@
 <div align = "center">
-    <img src = "imagenes/logo_calculo_numerico.png" width = "70" height = "70" />
+    <img src = "imagenes/logo_calculo_numerico.jpg" width = "70" height = "70" />
 </div>
 
 # Cálculo Numérico.
 
-*Cálculo Numérico* es un repositorio que sirve de soporte para las clases de *Cálculo Numérico*.
+*Cálculo Numérico* es un repositorio que sirve de soporte para la asignatura de *Cálculo Numérico*.
 
 <img src="https://img.shields.io/badge/License-MIT-green" /> <img src="https://img.shields.io/badge/Python-3.5-blue" />
 
