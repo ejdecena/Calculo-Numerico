@@ -1,5 +1,5 @@
 <div align = "center">
-    <img src = "imagenes/logo_calculo_numerico.jpg" width = "70" height = "70" />
+    <img src = "imagenes/logo_calculo_numerico.jpg" width = "140" height = "70" />
 </div>
 
 # Cálculo Numérico.
