@@ -39,6 +39,8 @@
 
 1. **Requisitos técnicos:**
     1. Calculadora científica básica.
+    1. Cuenta y repositorio en *GitHub*.
+
 1. **Requisitos cognoscitivos:**
     [1. Tutorial Git.](https://github.com/ejdecena/tutorial_git)
     [1. Tutorial Python.](https://github.com/ejdecena/tutorial_python)
