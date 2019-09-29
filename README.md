@@ -18,7 +18,9 @@
 ## Indice de contenido.
 
 1. **Notebooks:**
+
     [En progreso]
+
 1. **Guías de estudio:**
     1. [Guía 0:](guias/1_guia_calculo_numerico.pdf) Tiene que ver con
     1. [Guía 1:](guias/1_guia_calculo_numerico.pdf) Tiene que ver con
@@ -28,15 +30,16 @@
     1. [Guía 5:](guias/5_guia_calculo_numerico.pdf) Tiene que ver con
     1. [Guía 6:](guias/6_guia_calculo_numerico.pdf) Tiene que ver con
     1. [Guía 7:](guias/7_guia_calculo_numerico.pdf) Tiene que ver con
+
 1. **Bibliofrafía:**
     1. [Álgebra lineal con aplicaciones y Python.](libros/Libro_Algebra_Lineal_con_Aplicaciones_Python.pdf)
     1. [Numerical Methods in Engineering with Python 3](libros/Libro_Jaan_Kiusalaas_2013_Numerical_Methods_in_Engineering_Python_3ed.pdf)
 
 ## Pre-requisitos.
 
-**1. Requisitos técnicos:**
+1. **Requisitos técnicos:**
     1. Calculadora científica básica.
-**1. Requisitos cognoscitivos:**
+1. **Requisitos cognoscitivos:**
     [1. Tutorial Git.](https://github.com/ejdecena/tutorial_git)
     [1. Tutorial Python.](https://github.com/ejdecena/tutorial_python)
     [1. Tutorial Jupyter.](https://github.com/ejdecena/tutorial_jupyter)
