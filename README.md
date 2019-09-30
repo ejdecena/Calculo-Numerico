@@ -25,7 +25,7 @@
     <table style = "border:hidden; table-layout:fixed;" border = 0>
         <tbody>
             <tr>
-                <td style="width:100px;"><a href="guias/1_guia_calculo_numerico.pdf">Guía_0:</a></td>
+                <td><a href="guias/1_guia_calculo_numerico.pdf">Guía 0:</a></td>
                 <td>Objetivo General. Objetivos Específicos. Metodología. Contenido Programático.</td>
             </tr>
             <tr>
@@ -37,7 +37,7 @@
                 <td> Método de Bisección. Método de Regla Falsa. Método de Newton Raphson. Método de la Secante. Método de Iteración de Punto Fijo.</td>
             </tr>
             <tr>
-                <td><a href="guias/3_guia_calculo_numerico.pdf"><Guía 3:/a></td>
+                <td><a href="guias/3_guia_calculo_numerico.pdf">Guía 3:</a></td>
                 <td> Polinomio de Interpelación de Newton con Diferencias Divididas. Polinomio de Interpolación de Lagrange.</td>
             </tr>
             <tr>
