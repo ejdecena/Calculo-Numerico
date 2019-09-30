@@ -25,35 +25,35 @@
     <table style = "border:hidden">
         <tbody>
             <tr>
-                <td>[Guía 0:](guias/1_guia_calculo_numerico.pdf)</td>
+                <td><a href="guias/1_guia_calculo_numerico.pdf">Guía 0:</a></td>
                 <td>Objetivo General. Objetivos Específicos. Metodología. Contenido Programático.</td>
             </tr>
             <tr>
-                <td>[Guía 1:](guias/1_guia_calculo_numerico.pdf)</td>
+                <td><a href="guias/1_guia_calculo_numerico.pdf">Guía 1:</a></td>
                 <td>Repaso de Cálculo Diferencial e Integral. Aritmética del Computador y el Error de Redondedo.</td>
             </tr>
             <tr>
-                <td>[Guía 2:](guias/2_guia_calculo_numerico.pdf)</td>
+                <td><a href="guias/2_guia_calculo_numerico.pdf">Guía 2:</a></td>
                 <td> Método de Bisección. Método de Regla Falsa. Método de Newton Raphson. Método de la Secante. Método de Iteración de Punto Fijo.</td>
             </tr>
             <tr>
-                <td>[Guía 3:](guias/3_guia_calculo_numerico.pdf)</td>
+                <td><a href="guias/3_guia_calculo_numerico.pdf"><Guía 3:/a></td>
                 <td> Polinomio de Interpelación de Newton con Diferencias Divididas. Polinomio de Interpolación de Lagrange.</td>
             </tr>
             <tr>
-                <td>[Guía 4:](guias/4_guia_calculo_numerico.pdf)</td>
+                <td><a href="guias/4_guia_calculo_numerico.pdf">Guía 4:</a></td>
                 <td>Diferenciación Numérica.</td>
             </tr>
             <tr>
-                <td>[Guía 5:](guias/5_guia_calculo_numerico.pdf)</td>
+                <td><a href="guias/5_guia_calculo_numerico.pdf">Guía 5:</a></td>
                 <td>Integración Numérica. Regla del Trapecio. Regla de Simpson de Un Tercio. Regla de Simpson de Tres Octavos.</td>
             </tr>
             <tr>
-                <td>[Guía 6:](guias/6_guia_calculo_numerico.pdf)</td>
+                <td><a href="guias/6_guia_calculo_numerico.pdf">Guía 6:</a></td>
                 <td>Ecuaciones Diferenciales. Método de Euler. Método de Euler Mejorado. Método de Runge-Kutta de Orden 4.</td>
             </tr>
             <tr>
-                <td>[Guía 7:](guias/7_guia_calculo_numerico.pdf)</td>
+                <td><a href="guias/7_guia_calculo_numerico.pdf">Guía 7:</a></td>
                 <td>Métodos Directos Para Resolver Sistemas Lineales. Eliminación Gaussiana. Método de Gauss-Jordan. Método de Gauss-Seidel.</td>
             </tr>
         </tbody>
