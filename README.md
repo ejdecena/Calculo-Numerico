@@ -8,10 +8,9 @@
 
 <img src="https://img.shields.io/badge/License-MIT-green" /> <img src="https://img.shields.io/badge/Python-3.5-blue" />
 
-## Desarrolladores.
+## Desarrollador.
 
 * [Ing. Edgard Decena.](mailto:edecena@gmail.com)
-* [Ing. Luís Acevedo.](mailto:laar@protonmail.com)
 
 <a name = "indice"></a>
 
