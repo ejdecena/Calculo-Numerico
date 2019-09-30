@@ -25,7 +25,7 @@
     <table style = "border:hidden; table-layout:fixed;" border = 0>
         <tbody>
             <tr>
-                <td style="width:100px;"><a href="guias/1_guia_calculo_numerico.pdf">Guía 0:</a></td>
+                <td style="width:100px;"><a href="guias/1_guia_calculo_numerico.pdf">Guía_0:</a></td>
                 <td>Objetivo General. Objetivos Específicos. Metodología. Contenido Programático.</td>
             </tr>
             <tr>
