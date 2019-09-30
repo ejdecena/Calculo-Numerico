@@ -53,7 +53,7 @@
                 <td>Ecuaciones Diferenciales. Método de Euler. Método de Euler Mejorado. Método de Runge-Kutta de Orden 4.</td>
             </tr>
             <tr>
-                <td><a href="guias/7_guia_calculo_numerico.pdf">Guía 7:</a></td>
+                <td><a href="guias/7_guia_calculo_numerico.pdf">Guía_7:</a></td>
                 <td>Métodos Directos Para Resolver Sistemas Lineales. Eliminación Gaussiana. Método de Gauss-Jordan. Método de Gauss-Seidel.</td>
             </tr>
         </tbody>
