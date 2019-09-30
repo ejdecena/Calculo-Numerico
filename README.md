@@ -22,10 +22,10 @@
     [En progreso]
 
 1. **Guías de Estudio:**
-    <table style = "border:hidden" border = 0>
+    <table style = "border:hidden; table-layout:fixed;" border = 0>
         <tbody>
             <tr>
-                <td style="width:150px;"><a href="guias/1_guia_calculo_numerico.pdf">Guía 0:</a></td>
+                <td style="width:20px;"><a href="guias/1_guia_calculo_numerico.pdf">Guía 0:</a></td>
                 <td>Objetivo General. Objetivos Específicos. Metodología. Contenido Programático.</td>
             </tr>
             <tr>
