@@ -25,20 +25,39 @@
     <table style = "border:hidden">
         <tbody>
             <tr>
-                <td>Guía 1:</td>
+                <td>[Guía 0:](guias/1_guia_calculo_numerico.pdf)</td>
                 <td>Objetivo General. Objetivos Específicos. Metodología. Contenido Programático.</td>
+            </tr>
+            <tr>
+                <td>[Guía 1:](guias/1_guia_calculo_numerico.pdf)</td>
+                <td>Repaso de Cálculo Diferencial e Integral. Aritmética del Computador y el Error de Redondedo.</td>
+            </tr>
+            <tr>
+                <td>[Guía 2:](guias/2_guia_calculo_numerico.pdf)</td>
+                <td> Método de Bisección. Método de Regla Falsa. Método de Newton Raphson. Método de la Secante. Método de Iteración de Punto Fijo.</td>
+            </tr>
+            <tr>
+                <td>[Guía 3:](guias/3_guia_calculo_numerico.pdf)</td>
+                <td> Polinomio de Interpelación de Newton con Diferencias Divididas. Polinomio de Interpolación de Lagrange.</td>
+            </tr>
+            <tr>
+                <td>[Guía 4:](guias/4_guia_calculo_numerico.pdf)</td>
+                <td>Diferenciación Numérica.</td>
+            </tr>
+            <tr>
+                <td>[Guía 5:](guias/5_guia_calculo_numerico.pdf)</td>
+                <td>Integración Numérica. Regla del Trapecio. Regla de Simpson de Un Tercio. Regla de Simpson de Tres Octavos.</td>
+            </tr>
+            <tr>
+                <td>[Guía 6:](guias/6_guia_calculo_numerico.pdf)</td>
+                <td>Ecuaciones Diferenciales. Método de Euler. Método de Euler Mejorado. Método de Runge-Kutta de Orden 4.</td>
+            </tr>
+            <tr>
+                <td>[Guía 7:](guias/7_guia_calculo_numerico.pdf)</td>
+                <td>Métodos Directos Para Resolver Sistemas Lineales. Eliminación Gaussiana. Método de Gauss-Jordan. Método de Gauss-Seidel.</td>
             </tr>
         </tbody>
     </table>
-
-    1. [Guía 0:](guias/1_guia_calculo_numerico.pdf) Objetivo General. Objetivos Específicos. Metodología. Contenido Programático.
-    1. [Guía 1:](guias/1_guia_calculo_numerico.pdf) Repaso de Cálculo Diferencial e Integral. Aritmética del Computador y el Error de Redondedo.
-    1. [Guía 2:](guias/2_guia_calculo_numerico.pdf) Método de Bisección. Método de Regla Falsa. Método de Newton Raphson. Método de la Secante. Método de Iteración de Punto Fijo.
-    1. [Guía 3:](guias/3_guia_calculo_numerico.pdf) Polinomio de Interpelación de Newton con Diferencias Divididas. Polinomio de Interpolación de Lagrange.
-    1. [Guía 4:](guias/4_guia_calculo_numerico.pdf) Diferenciación Numérica.
-    1. [Guía 5:](guias/5_guia_calculo_numerico.pdf) Integración Numérica. Regla del Trapecio. Regla de Simpson de Un Tercio. Regla de Simpson de Tres Octavos.
-    1. [Guía 6:](guias/6_guia_calculo_numerico.pdf) Ecuaciones Diferenciales. Método de Euler. Método de Euler Mejorado. Método de Runge-Kutta de Orden 4.
-    1. [Guía 7:](guias/7_guia_calculo_numerico.pdf) Métodos Directos Para Resolver Sistemas Lineales. Eliminación Gaussiana. Método de Gauss-Jordan. Método de Gauss-Seidel. 
 
 1. **Bibliofrafía:**
     1. [Álgebra lineal con aplicaciones y Python.](libros/Libro_Algebra_Lineal_con_Aplicaciones_Python.pdf)
