@@ -22,6 +22,15 @@
     [En progreso]
 
 1. **Guías de estudio:**
+    <table style = "border:hidden">
+        <tbody>
+            <tr>
+                <td>Guía 1:</td>
+                <td>Objetivo General. Objetivos Específicos. Metodología. Contenido Programático.</td>
+            </tr>
+        </tbody>
+    </table>
+
     1. [Guía 0:](guias/1_guia_calculo_numerico.pdf) Objetivo General. Objetivos Específicos. Metodología. Contenido Programático.
     1. [Guía 1:](guias/1_guia_calculo_numerico.pdf) Repaso de Cálculo Diferencial e Integral. Aritmética del Computador y el Error de Redondedo.
     1. [Guía 2:](guias/2_guia_calculo_numerico.pdf) Método de Bisección. Método de Regla Falsa. Método de Newton Raphson. Método de la Secante. Método de Iteración de Punto Fijo.
