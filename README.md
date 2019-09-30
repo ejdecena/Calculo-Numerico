@@ -22,7 +22,7 @@
     [En progreso]
 
 1. **Guías de Estudio:**
-    <table style = "border:hidden; table-layout:fixed;" border = 0>
+    <table style = "border:hidden;" border = 0>
         <tbody>
             <tr>
                 <td><a href="guias/1_guia_calculo_numerico.pdf">Guía 0:</a></td>
