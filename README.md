@@ -25,12 +25,12 @@
     <table style = "border:hidden; table-layout:fixed;" border = 0>
         <tbody>
             <tr>
-                <td style="width:100px;"><a href="guias/1_guia_calculo_numerico.pdf">Guía 0:</a></td>
+                <td><a href="guias/1_guia_calculo_numerico.pdf">Guía 0:</a></td>
                 <td>Objetivo General. Objetivos Específicos. Metodología. Contenido Programático.</td>
             </tr>
             <tr>
                 <td><a href="guias/1_guia_calculo_numerico.pdf">Guía 1:</a></td>
-                <td>Repaso de Cálculo Diferencial e Integral. Aritmética del Computador y el Error de Redondedo.</td>
+                <td>Repaso de Cálculo Diferencial e Integral. Aritmética del Computador y el Error de Redondeo.</td>
             </tr>
             <tr>
                 <td><a href="guias/2_guia_calculo_numerico.pdf">Guía 2:</a></td>
@@ -38,7 +38,7 @@
             </tr>
             <tr>
                 <td><a href="guias/3_guia_calculo_numerico.pdf">Guía 3:</a></td>
-                <td> Polinomio de Interpelación de Newton con Diferencias Divididas. Polinomio de Interpolación de Lagrange.</td>
+                <td> Polinomio de Interpolación de Newton con Diferencias Divididas. Polinomio de Interpolación de Lagrange.</td>
             </tr>
             <tr>
                 <td><a href="guias/4_guia_calculo_numerico.pdf">Guía 4:</a></td>
