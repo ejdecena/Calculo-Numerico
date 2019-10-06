@@ -4,7 +4,7 @@
 
 # Cálculo Numérico.
 
-*Cálculo Numérico* es un repositorio que sirve de soporte para la asignatura de *Cálculo Numérico*.
+*Cálculo Numérico* es un repositorio que sirve de apoyo a la asignatura de *Cálculo Numérico*.
 
 <img src="https://img.shields.io/badge/License-MIT-green" /> <img src="https://img.shields.io/badge/Python-3.5-blue" />
 
