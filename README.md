@@ -61,6 +61,7 @@
 1. **Bibliofrafía:**
     1. [Álgebra lineal con aplicaciones y Python.](libros/Libro_Algebra_Lineal_con_Aplicaciones_Python.pdf)
     1. [Numerical Methods in Engineering with Python 3.](libros/Libro_Jaan_Kiusalaas_2013_Numerical_Methods_in_Engineering_Python_3ed.pdf)
+    1. [Numerical Algorithms Methods for Computer Vision, Machine Learning, and Graphics.](libros/Libro_Numerical_Algorithms_Methods_for_Machine_Learning.pdf)
 
 ## Pre-requisitos.
 
