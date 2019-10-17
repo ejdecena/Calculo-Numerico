@@ -6,7 +6,7 @@
 
 *Cálculo Numérico* es un repositorio que sirve de apoyo a la asignatura de *Cálculo Numérico*.
 
-<img src="https://img.shields.io/badge/License-MIT-green" /> <img src="https://img.shields.io/badge/Python-3.5-blue" />
+<a href="https://nbviewer.jupyter.org/github/ejdecena/calculo_numerico/tree/master/"><img src="https://img.shields.io/badge/Visualizar-NBViewer-orange"/></a> <img src="https://img.shields.io/badge/License-MIT-green" /> <img src="https://img.shields.io/badge/Python-3.5-blue" />
 
 ## Desarrollador.
 
@@ -88,4 +88,4 @@ Este repositorio es de *código abierto*; lo que significa que cualquier persona
 * Mejores explicaciones. 
 * Correcciones de errores conceptuales.
 
-La forma de contribuir es vía la interfaz web de *GitHub*, mediante peticiones de [*Pull requests*](https://github.com/ejdecena/tutorial_git/pulls), o reportando los problemas/bugs del repositorio por [*Issues*](https://github.com/ejdecena/tutorial_git/issues).
+La forma de contribuir es vía la interfaz web de *GitHub*, mediante peticiones de [*Pull requests*](https://github.com/ejdecena/calculo_numerico/pulls), o reportando los problemas/bugs del repositorio por [*Issues*](https://github.com/ejdecena/calculo_numerico/issues).
