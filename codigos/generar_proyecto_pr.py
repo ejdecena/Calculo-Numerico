@@ -8,8 +8,8 @@ DATA      = "../evaluaciones/participantes.csv"
 PREGUNTAS = [
 "Recibe como parámetro una lista y retorna el promedio de la lista.",
 "Recibe como parámetro una lista y retorna la lista invertida.",
-"Recibe como parámetro un diccionario y retorna las claves del diccionario.",
-"Recibe como parámetro un diccionario y retorna los valores del diccionario.",
+"Recibe como parámetro un diccionario y retorna una lista con las claves del diccionario.",
+"Recibe como parámetro un diccionario y retorna una lista con los valores del diccionario.",
 "Recibe como parámetro los valores a, b, c y retorna el mínimo.",
 "Recibe como parámetro una lista y retorna el mínimo valor de la lista.",
 "Recibe como parámetro una lista y retorna el máximo valor de la lista.",
