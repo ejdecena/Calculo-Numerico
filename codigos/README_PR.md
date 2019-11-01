@@ -12,7 +12,7 @@ Los pasos para ejecutar el *workflow Pull-Request* (PR) son los siguientes:
 
 **NOTA 1**: Solo se recibirá UNA y solo una petición de PR por participante.
 
-**NOTA 2**: Marque con **Watch** este repositorio para que reciba todas las notificaciones. Cualquier duda o pregunta sobre este proyecto debe abrir un **Issue**.
+**NOTA 2**: Marque con **Watch** este repositorio para que reciba todas las notificaciones. Cualquier duda o pregunta sobre este proyecto debe abrir un [**Issue**](https://github.com/ejdecena/proyecto_pull_request/issues).
 
 **NOTA 3**: Recuerde que hay un [**Tutorial Git**](https://github.com/ejdecena/tutorial_git) y un [**Tutorial Python**](https://github.com/ejdecena/tutorial_python) que pueden servirle de ayuda para seguir el workflow PR.
 

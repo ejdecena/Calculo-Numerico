@@ -1,10 +1,21 @@
 #!/usr/bin/env python3
 """Este script genera un archivo para el proyecto de prueba de PR."""
 
+import os
 import csv
 import random
+import shutil
 
-DATA      = "../evaluaciones/participantes.csv"
+DATA = "../evaluaciones/participantes.csv"
+PATH = "proyecto_pull_request{}".format(os.sep)
+
+try:
+    shutil.rmtree(PATH)
+except FileNotFoundError:
+    pass
+finally:
+    os.mkdir(PATH)
+
 PREGUNTAS = [
 "Recibe como parámetro una lista y retorna el promedio de la lista.",
 "Recibe como parámetro una lista y retorna la lista invertida.",
@@ -20,15 +31,17 @@ PREGUNTAS = [
 "Recibe como parámetro una cadena y retorma una lista con las consonantes de la cadena.",
 "Recibe como paŕametro una cadena y retorna el número de caracteres de la cadena.",
 "Recibe como parámetro una cadena y retorna la cadena invertida.",
+"Recibe como parámetro una tupla y retorna el primer elemento de la tupla.",
+"Recibe como parámetro una tupla y retorna el último elemento de la tupla.",
+"Recibe como parámetro un conjunto y retorna el mayor elemento del conjunto.",
+"Recibe como parámetro un conjunto y retorna el menor elemento del conjunto."
 ]
 
 proyecto  = '''#!/usr/bin/env python3
-"""Proyecto sobre Python y el workflow Pull-Request en GitHub.
+"""
+Proyecto sobre Python y el workflow Pull-Request en GitHub.
 
 Cada participante debe completar su función y luego solicitar el Pull-Request.
-
-Este código fue generado por:
-https://github.com/ejdecena/calculo_numerico/codigos/generar_proyecto_pr.py
 """\n'''
 
 
@@ -44,4 +57,6 @@ with open(DATA) as fdata:
         proyecto += '\n    """'
         proyecto += '\n    pass\n'
 
-    print(proyecto, file = open("proyecto_calculo.py", "w"))
+    print(proyecto, file = open(PATH + "funciones_python.py", "w"))
+    print("__pycache__\n", file = open(PATH + ".gitignore", "w"))
+    shutil.copy("README_PR.md", PATH + "README.md")
