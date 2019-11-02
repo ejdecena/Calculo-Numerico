@@ -17,10 +17,14 @@
 ## Indice de contenido.
 
 1. **Guías de Estudio:**
+
+    | [Guía 0](guias/1_guia_calculo_numerico.pdf) | Objetivo General. Objetivos Específicos. Metodología. Contenido Programático. |
+    | [Guía 1](guias/1_guia_calculo_numerico.pdf) | Repaso de Cálculo Diferencial e Integral. Aritmética del Computador y el Error de Redondeo. |
+
     <table style = "border:hidden;" border = 0>
         <tbody>
             <tr>
-                <td><a href="guias/1_guia_calculo_numerico.pdf">Guía 0:</a></td>
+                <td><a href="guias/0_guia_calculo_numerico.pdf">Guía 0:</a></td>
                 <td>Objetivo General. Objetivos Específicos. Metodología. Contenido Programático.</td>
             </tr>
             <tr>
