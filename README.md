@@ -16,10 +16,6 @@
 
 ## Indice de contenido.
 
-1. **Notebooks:**
-
-    [En progreso]
-
 1. **Guías de Estudio:**
     <table style = "border:hidden;" border = 0>
         <tbody>
@@ -74,8 +70,6 @@ El curso de *Cálculo Numérico* requiere ciertos **requisitos técnicos y cogno
 1. **Requisitos cognoscitivos:**
     1. [Tutorial Git.](https://github.com/ejdecena/tutorial_git)
     1. [Tutorial Python.](https://github.com/ejdecena/tutorial_python)
-    1. [Tutorial Jupyter.](https://github.com/ejdecena/tutorial_jupyter)
-    1. [Herramientas Python (NumPy, Matplotlib y SciPy).](https://github.com/ejdecena/herramientas_python)
 
 ## Contribuciones.
 
