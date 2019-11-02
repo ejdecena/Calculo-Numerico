@@ -30,7 +30,7 @@
     | [Guía_7](guias/7_guia_calculo_numerico.pdf) | Métodos Directos Para Resolver Sistemas Lineales. Eliminación Gaussiana. Método de Gauss-Jordan. Método de Gauss-Seidel. |
     
 1. **Bibliofrafía:**
-    1. [Álgebra lineal con aplicaciones y Python.](libros/Libro_Algebra_Lineal_con_Aplicaciones_Python.pdf)
+    1. [Álgebra Lineal con Aplicaciones y Python.](libros/Libro_Algebra_Lineal_con_Aplicaciones_Python.pdf)
     1. [Numerical Methods in Engineering with Python 3.](libros/Libro_Jaan_Kiusalaas_2013_Numerical_Methods_in_Engineering_Python_3ed.pdf)
     1. [Numerical Algorithms Methods for Computer Vision, Machine Learning, and Graphics.](libros/Libro_Numerical_Algorithms_Methods_for_Machine_Learning.pdf)
 
