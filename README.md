@@ -18,10 +18,16 @@
 
 1. **Guías de Estudio:**
     
-    | Guía | Contenido |
+    | Guía. | Contenido. |
     | --- | --- |
     | [Guía 0](guias/1_guia_calculo_numerico.pdf) | Objetivo General. Objetivos Específicos. Metodología. Contenido Programático. |
     | [Guía 1](guias/1_guia_calculo_numerico.pdf) | Repaso de Cálculo Diferencial e Integral. Aritmética del Computador y el Error de Redondeo. |
+    | [Guía 2](guias/2_guia_calculo_numerico.pdf) | Método de Bisección. Método de Regla Falsa. Método de Newton Raphson. Método de la Secante. Método de Iteración de Punto Fijo. |
+    | [Guía 3](guias/3_guia_calculo_numerico.pdf) | Polinomio de Interpolación de Newton con Diferencias Divididas. Polinomio de Interpolación de Lagrange. |
+    | [Guía 4](guias/4_guia_calculo_numerico.pdf) | Diferenciación Numérica. |
+    | [Guía 5](guias/5_guia_calculo_numerico.pdf) | Integración Numérica. Regla del Trapecio. Regla de Simpson de Un Tercio. Regla de Simpson de Tres Octavos. |
+    | [Guía 6](guias/6_guia_calculo_numerico.pdf) | Ecuaciones Diferenciales. Método de Euler. Método de Euler Mejorado. Método de Runge-Kutta de Orden 4. |
+    | [Guía 7](guias/7_guia_calculo_numerico.pdf) | Métodos Directos Para Resolver Sistemas Lineales. Eliminación Gaussiana. Método de Gauss-Jordan. Método de Gauss-Seidel. |
 
     <table style = "border:hidden;" border = 0>
         <tbody>
