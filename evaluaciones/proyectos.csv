@@ -1,21 +1,21 @@
-Nombre y Apellido,Cedula,Proyecto 1,Proyecto 2,Proyecto 3,Promedio
-Alejandro Ernesto Girardi Castillo,27525819,10,6.67,10,8.89
-Anibal Jose Velasquez Carrion,26887484,10,10,10,10
-Ashly Scarpati,27424492,10,0,0,3.33
-Cesar Ramon Albornoz Benitez,26311747,0,0,0,0
-Danilo Andres Lopez Flores,27424264,0,0,0,0
-Diego Alejandro Tineo Zabala,27650623,10,10,10,10
-Eliel IsacarAlfonzo Suarez,20326345,0,0,10,3.33
-Enrique Antonio Salazar Tillero,27000054,0,6.67,9,5.22
-Estefano Valentino Ramos Guarin,26778542,10,8,10,9.33
-Hector David Salazar Rodriguez,25967387,10,0,7,5.67
-Jesus Rafael Calderin Anton,22998438,10,4,6,6.67
-Jose Angel Guevara Moya,27525799,0,0,4,1.33
-Jose Manuel Vega Regnault,27000723,0,6.67,10,5.56
-Kevin Ricardo Natera Ramos,27000066,0,0,8,2.67
-Luis Pablo Romero Yezzi,26625100,0,6,10,5.33
-Mariangeles Millan Fermin,20901641,0,0,0,0
-Mauricio Junior Marcano Zabala,27202233,10,6.67,10,8.89
-Miguel Humberto Bruno,26842695,10,0,10,6.67
-Norlie Mercedes Rojas,26707950,10,6.67,10,8.89
-Wuilmer Asdrubal Pulgar Avila,26625191,10,4,10,8
+Nombre y Apellido,Cedula,Proyecto 1,Proyecto 2,Proyecto 3,Proyecto 4,Promedio
+Alejandro Ernesto Girardi Castillo,27525819,10,6.67,10,3,7.4175
+Anibal Jose Velasquez Carrion,26887484,10,10,10,6,9
+Ashly Scarpati,27424492,10,0,0,0,2.5
+Cesar Ramon Albornoz Benitez,26311747,0,0,0,0,0
+Danilo Andres Lopez Flores,27424264,0,0,0,0,0
+Diego Alejandro Tineo Zabala,27650623,10,10,10,6,9
+Eliel IsacarAlfonzo Suarez,20326345,0,0,10,6,4
+Enrique Antonio Salazar Tillero,27000054,0,6.67,9,3,4.6675
+Estefano Valentino Ramos Guarin,26778542,10,8,10,6,8.5
+Hector David Salazar Rodriguez,25967387,10,0,7,0,4.25
+Jesus Rafael Calderin Anton,22998438,10,4,6,6,6.5
+Jose Angel Guevara Moya,27525799,0,0,4,0,1
+Jose Manuel Vega Regnault,27000723,0,6.67,10,6,5.6675
+Kevin Ricardo Natera Ramos,27000066,0,0,8,4,3
+Luis Pablo Romero Yezzi,26625100,0,6,10,6,5.5
+Mariangeles Millan Fermin,20901641,0,0,0,0,0
+Mauricio Junior Marcano Zabala,27202233,10,6.67,10,3,7.4175
+Miguel Humberto Bruno,26842695,10,0,10,4,6
+Norlie Mercedes Rojas,26707950,10,6.67,10,3,7.4175
+Wuilmer Asdrubal Pulgar Avila,26625191,10,4,10,6,7.5
